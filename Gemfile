@@ -4,8 +4,6 @@ ruby '2.2.2'
 gem 'bootstrap-sass'
 gem 'rails_12factor'
 gem 'dotenv-rails'
-gem 'mini_magick'
-gem 'simple_form'
 gem 'faker'
 gem 'normalize-rails'
 
